@@ -1,7 +1,7 @@
 # Projet de Pipeline de Données pour la Maladie de Parkinson
 
 Ce projet implémente un pipeline de traitement des données utilisant plusieurs technologies Big Data pour analyser les caractéristiques des patients atteints de la maladie de Parkinson. Le pipeline inclut les étapes de téléchargement des données, de chargement dans une base de données NoSQL (Cassandra), et de traitement des données avec une approche MapReduce.
-![Pipeline de Données pour la Maladie de Parkinson](sandbox:/home/segula/Desktop/Project_iot_cloud/diagram.png)
+![Pipeline de Données pour la Maladie de Parkinson](./diagram.png)
 ## Table des Matières
 
 1. [Introduction](#introduction)
