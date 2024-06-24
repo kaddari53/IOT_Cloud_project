@@ -126,7 +126,7 @@ python train_model.py
 
 bash
 
-python api_rest.py
+python falsk_api_rest.py
 
 ### Étape 3: Exécuter les scripts de pipeline
 
